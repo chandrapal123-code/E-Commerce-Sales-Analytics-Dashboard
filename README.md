@@ -248,15 +248,15 @@ Through this project, I demonstrated my knowledge of:
 
 ---
 
-## ⭐ Project Highlights
+##  Project Highlights
 
-✔ Interactive Power BI dashboard
-✔ Multiple analytical pages
-✔ KPI-based business reporting
-✔ DAX measures
-✔ Power Query transformations
-✔ Customer analysis
-✔ Product analysis
-✔ Sales analysis
-✔ Profit analysis
-✔ Interactive slicers and visualizations
+-- Interactive Power BI dashboard
+-- Multiple analytical pages
+-- KPI-based business reporting
+-- DAX measures
+-- Power Query transformations
+-- Customer analysis
+-- Product analysis
+-- Sales analysis
+-- Profit analysis
+-- Interactive slicers and visualizations
