@@ -1,9 +1,9 @@
 # E-Commerce-Sales-Analytics-Dashboard
 nteractive E-Commerce Sales Analytics Dashboard built using Microsoft Power BI, Power Query, DAX, and data visualization techniques to analyze sales, profit, customers, products, and business performance.
 
-# 🛒 E-Commerce Sales Analytics Dashboard
+#  E-Commerce Sales Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an **E-Commerce Sales Analytics Dashboard** developed using **Microsoft Power BI**.
 
@@ -24,7 +24,7 @@ The dashboard helps users understand:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Microsoft Power BI**
 * **Power Query**
@@ -35,7 +35,7 @@ The dashboard helps users understand:
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. E-Commerce Dashboard
 
@@ -123,7 +123,7 @@ It analyzes:
 
 ---
 
-## 🧹 Data Cleaning & Transformation
+##  Data Cleaning & Transformation
 
 Data preparation was performed using **Power Query**.
 
@@ -140,7 +140,7 @@ Major steps included:
 
 ---
 
-## 📐 DAX Measures
+##  DAX Measures
 
 The dashboard uses DAX measures for important business KPIs.
 
@@ -190,7 +190,7 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 
 ---
 
-## 📈 Key Business Questions
+##  Key Business Questions
 
 This dashboard can answer questions such as:
 
@@ -208,7 +208,7 @@ This dashboard can answer questions such as:
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The major objectives of this project are:
 
@@ -222,7 +222,7 @@ The major objectives of this project are:
 
 ---
 
-## 💡 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 Through this project, I demonstrated my knowledge of:
 
@@ -242,60 +242,9 @@ Through this project, I demonstrated my knowledge of:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-E-Commerce-Sales-Analytics-Dashboard/
-│
-├── E-commerce_Sales_Dashboard.pbix
-├── README.md
-│
-├── screenshots/
-│   ├── ecommerce-dashboard.png
-│   ├── customer-dashboard.png
-│   ├── product-dashboard.png
-│   ├── sales-dashboard.png
-│   └── profit-dashboard.png
-│
-└── data/
-    └── dataset.csv
-```
-
----
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file from this repository.
-2. Open it using **Microsoft Power BI Desktop**.
-3. If required, update the dataset/source path.
-4. Refresh the data.
-5. Explore the dashboard using slicers and interactive visuals.
-
----
-
-## 📌 Project Type
+##  Project Type
 
 **Data Analytics | Business Intelligence | Power BI Dashboard**
-
----
-
-## 👨‍💻 Author
-
-**Chandrapal Gavale**
-
-B.Tech – Computer Science and Engineering
-
-### Technical Skills
-
-* Python
-* SQL / MySQL
-* Power BI
-* Excel
-* Tableau
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
 
 ---
 
