@@ -241,6 +241,46 @@ Through this project, I demonstrated my knowledge of:
 * Dashboard Development
 
 ---
+## Business Insights
+
+1. **Sales Performance**
+
+   * The dashboard helps identify overall **sales, profit, orders, and quantity sold**.
+   * Monthly sales trends help management understand which months perform better and plan sales strategies accordingly.
+
+2. **Regional Performance**
+
+   * The **Profit by Region** analysis identifies high-performing and low-performing regions.
+   * The business can focus marketing and sales efforts on regions with strong growth potential.
+
+3. **Category Analysis**
+
+   * **Sales by Category** shows which product categories contribute the most revenue.
+   * High-performing categories can receive more inventory and promotional attention.
+
+4. **Top Products**
+
+   * The **Top 10 Products** visual helps identify products generating the highest sales.
+   * These products can be prioritized for inventory management and marketing campaigns.
+
+5. **Sales vs Profit**
+
+   * Comparing sales and profit helps identify products that generate high revenue but may have **low profit margins**.
+   * This can support better pricing and discount decisions.
+
+6. **Profitability**
+
+   * **Profit Margin %** helps evaluate whether increasing sales is actually improving profitability.
+   * Management can reduce unnecessary discounts or costs for low-margin products.
+
+7. **Customer Insights**
+
+   * The customer details section helps identify valuable customers and their purchasing behavior.
+   * This can support **customer retention and targeted marketing campaigns**.
+
+8. **Data-Driven Decision Making**
+
+   * Power BI provides interactive **KPIs, charts, maps, and slicers**, allowing management to quickly monitor business performance and make faster decisions.
 
 ##  Project Type
 
